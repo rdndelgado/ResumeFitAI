@@ -33,6 +33,7 @@ This project uses **pretrained transformer models** from [Sentence Transformers]
 ## Installation
 
 1. **Clone the repos**
+
     ``git clone https://github.com/rdndelgado/ResumeFitAI.git``
     ``cd resumefit-ai``
 
