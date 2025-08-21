@@ -32,27 +32,21 @@ This project uses **pretrained transformer models** from [Sentence Transformers]
 
 ## Installation
 
-1. **Clone the repos
+1. **Clone the repos**
 
-``bash``
-git clone https://github.com/rdndelgado/ResumeFitAI.git
-cd resumefit-ai
+    ``git clone https://github.com/rdndelgado/ResumeFitAI.git``
+    ``cd resumefit-ai``
 
 2. **Create and activate a virtual environment**
+    *Linux / Mac*
+    ``python -m venv venv``
+    ``source venv/bin/activate``
+    <br>*Windows*
+    ``python -m venv venv``
+    ``venv\Scripts\activate``
 
-``bash``
-# Linux / Mac
-python -m venv venv
-source venv/bin/activate
-
-# Windows
-python -m venv venv
-venv\Scripts\activate
-
-3. **Install Dependencies**
-``bash``
-pip install -r requirements.txt
+3. **Install Dependencies**`
+``pip install -r requirements.txt``
 
 4. **Run the Streamlit app**
-``bash``
-streamlit run app.py
+``streamlit run app.py``
