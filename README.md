@@ -2,6 +2,8 @@
 
 A Streamlit-based application that ranks candidate resumes based on semantic similarity with a job description using transformer embeddings. Designed to help HR teams quickly screen and prioritize candidates.
 
+**Try it out:** [ResumeFit AI](https://resumefitai-rd.streamlit.app/)
+
 ---
 
 ## Features
@@ -9,7 +11,7 @@ A Streamlit-based application that ranks candidate resumes based on semantic sim
 - Upload a **job description** (PDF or text)
 - Upload multiple **resumes** (PDF or DOCX)
 - Generate **vector embeddings** using lightweight transformer models
-- Compute **cosine similarity** between job description and resumes
+- Compute **cosine similarity**  between job description and resumes
 - Display **ranked results** in an intuitive interface
 
 ---
