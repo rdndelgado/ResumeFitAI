@@ -38,7 +38,7 @@ This project uses **pretrained transformer models** from [Sentence Transformers]
     ``cd resumefit-ai``
 
 2. **Create and activate a virtual environment**
-    *Linux / Mac*
+    <br>*Linux / Mac*
     ``python -m venv venv``
     ``source venv/bin/activate``
     <br>*Windows*
